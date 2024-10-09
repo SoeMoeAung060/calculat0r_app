@@ -22,6 +22,7 @@ This app is built using Kotlin and Jetpack Compose for a modern Android developm
 
 ### Screenshots
 Include some screenshots of the app here to give users an idea of the design and layout.
+
 ![Calculator](./docs/images/calculator_dark.png)
 
 
