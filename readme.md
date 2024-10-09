@@ -62,4 +62,4 @@ Include some screenshots of the app here to give users an idea of the design and
 - CalculatorServicesImpl: Contains logic for arithmetic operations and extra functions like percentage, square root, etc.
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](./LINCENSE) file for more details.
