@@ -20,8 +20,7 @@ This app is built using Kotlin and Jetpack Compose for a modern Android developm
 - Clear Functionality: Delete all inputs and reset the calculator.
 - Responsive UI: Dynamically adjusts font size based on input length.
 
-### Screenshots
-Include some screenshots of the app here to give users an idea of the design and layout.
+### Screenshot
 
 ![Calculator](./docs/images/calculator_dark.png)
 
